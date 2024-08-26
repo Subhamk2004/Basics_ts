@@ -5,3 +5,5 @@ check ss1 for what TS stops:
 
 TypeScript is static checking it means that iw works like when we are working with C++ in IDEs, as it that whenever we are doing a mistake the error is thrown at taht time only by the IDE itself
 That's what TS does. Check ss2 for that
+
+To install TypeScript do: npm install -g typescript
