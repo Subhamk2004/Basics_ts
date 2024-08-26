@@ -1,0 +1,4 @@
+TypeScript is nothing but it ensures the type safety in javascript
+for ex:
+it don't allows something unusal like 2 + '2' = '22' // TypeScript will not allow this type conversion 
+check ss1 for what TS stops:
