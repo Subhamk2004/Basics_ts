@@ -7,3 +7,9 @@ TypeScript is static checking it means that iw works like when we are working wi
 That's what TS does. Check ss2 for that
 
 To install TypeScript do: npm install -g typescript
+
+// while compiling ts file it creates a js file which then finally runs
+
+// for the number of types in TS check (ss3), and the link = https://www.typescriptlang.org/docs/handbook/type-compatibility.html
+
+// check typescript docs
